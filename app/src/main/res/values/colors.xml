@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="LabelApp">#D296DD</color>
+    <color name="LabelDigite">#94C2E7</color>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Sorteio</string>
+    <string name="TextViewNomeApp">Escolha um Numero entre 0 e 100</string>
+    <string name="TextViewDigiteNumero">Digite um Número</string>
+    <string name="EditTextDigiteNumero">Digite um Número</string>
+    <string name="ButtonSorteio">Sortear</string>
+
+
+</resources>
